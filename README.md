@@ -1,4 +1,4 @@
-This is a C++ a Neural Network that uses the Back Propagation algorithm for the learning. The NN can be trained to approximate regression problems. You can test the NN by using the MONK dataset released by the [UCI ML Repo]:(https://archive.ics.uci.edu/ml/datasets/MONK's+Problems), or you can also use the LOC dataset. Both datasets are located in the item folder of the project.
+This is a C++ a Neural Network that uses the Back Propagation algorithm for the learning. The NN can be trained to approximate regression problems. You can test the NN by using the [MONK]((https://archive.ics.uci.edu/ml/datasets/MONK's+Problems) dataset released by the UCI Machine Learning Repository, or you can  use the LOC dataset used for a students competition. Both are located in the item folder of the project.
  
 
 #### Compilation
