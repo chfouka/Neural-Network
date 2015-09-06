@@ -1,0 +1,2 @@
+/home/hind/Corsi/AA1/Consegna_Hind/Codice/src/build/CMakeFiles/simulator.dir
+/home/hind/Corsi/AA1/Consegna_Hind/Codice/src/build/CMakeFiles/splitter.dir

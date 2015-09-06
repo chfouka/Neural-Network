@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++0x -funroll-loops -march=native -O3 -DNDEBUG  -s   CMakeFiles/splitter.dir/splitter.cpp.o  -o splitter -rdynamic -lboost_program_options 

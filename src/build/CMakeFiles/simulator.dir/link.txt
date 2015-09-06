@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++0x -funroll-loops -march=native -O3 -DNDEBUG  -s   CMakeFiles/simulator.dir/simulator.cpp.o  -o simulator -rdynamic -lboost_program_options 

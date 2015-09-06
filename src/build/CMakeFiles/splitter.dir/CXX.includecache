@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../Dataset.h
+fstream
+-
+limits
+-
+float.h
+-
+iostream
+-
+algorithm
+-
+Pattern.h
+../Pattern.h
+
+../Pattern.h
+vector
+-
+
+/home/hind/Corsi/AA1/Consegna_Hind/Codice/src/splitter.cpp
+iostream
+-
+Dataset.h
+-
+boost/program_options.hpp
+-
+
