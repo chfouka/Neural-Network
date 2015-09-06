@@ -21,12 +21,19 @@ this prints the simulator usage.
 	
 
 this simulates the NN using the dataset in ../../item/LOC/trainLoc.
+
 -z 1: requires the normalization of the dataset given 
+
 -n 1 : gives the range of values in ../../item/LOC/normvaluesLoc for the normalization.
+
 -u 10: specifies 10 units for the NN hidden layer. 
+
 -E 0: disables the early stopping criterion.
+
 -e 80000: sets the number of epochs 
+
 -v 1: chooses a simple validation instead of a crossvalidation
+
 ...
 
 
