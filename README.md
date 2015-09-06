@@ -13,7 +13,7 @@ You can use the simulator to run the NN
 	./simulator --help
 	
 this prints the simulator usage. 
-Warning: not all combinations have a sense.
+
 
 ### Example :
 
