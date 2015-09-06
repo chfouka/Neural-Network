@@ -19,7 +19,14 @@ this prints the simulator usage.
 
 	./simulator -i 6 -o 2 -d ../../item/LOC/trainLoc -z 1 -n ../../item/LOC/normvaluesLoc  -E 0 -e 80000 -v 1 -u 10 -S 0.04 -L 0.005 -a 0.00 -l 0.00
 	
-this simulates the NN using the dataset in ../../item/LOC/trainLoc. With ( -z 1 ) we require the normalization of the dataset given 
-the range of values in ../../item/LOC/normvaluesLoc. With (-u 10) we specify 10 units for the NN hidden layer. With (-E 0) we 			disable the early stopping criterion. With (-e 80000) we specify the number of epochs for the learning. With (-v 1) we choose the simple validation instead of a crossvalidation.. etc.
+
+this simulates the NN using the dataset in ../../item/LOC/trainLoc.
+-z 1: requires the normalization of the dataset given 
+-n 1 : gives the range of values in ../../item/LOC/normvaluesLoc for the normalization.
+-u 10: specifies 10 units for the NN hidden layer. 
+-E 0: disables the early stopping criterion.
+-e 80000: sets the number of epochs 
+-v 1: chooses a simple validation instead of a crossvalidation
+...
 
 
