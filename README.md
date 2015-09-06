@@ -11,7 +11,7 @@
 You can use the simulator to run the NN
 	
 	./simulator --help
-	
+
 this prints the simulator usage. 
 
 
