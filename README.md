@@ -12,8 +12,8 @@
 	
 	./simulator --help
 	
-		this prints the simulator usage. 
-		Warning: not all combinations have a sense.
+this prints the simulator usage. 
+Warning: not all combinations have a sense.
 
 ### Execution example :
 
