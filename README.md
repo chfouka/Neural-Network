@@ -20,8 +20,7 @@ this prints the simulator usage.
 	./simulator -i 6 -o 2 -d ../../item/LOC/trainLoc -z 1 -n ../../item/LOC/normvaluesLoc  -E 0 -e 80000 -v 1 -u 10 -S 0.04 -L 0.005 -a 0.00 -l 0.00
 	
 
-this simulates the NN using the dataset in ../../item/LOC/trainLoc. <br/>
-
+this simulates the NN using the dataset in ../../item/LOC/trainLoc.
 -z 1: requires the normalization of the dataset given <br/>
 
 -n 1 : gives the range of values in ../../item/LOC/normvaluesLoc for the normalization. <br/>
